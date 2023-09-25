@@ -1,6 +1,6 @@
 # GitHub Bootcamp - Workshop
 
-Test for PR
+Another comment
 
 Repo for the `GitHub Bootcamp` 1-day Workshop from @wulfland.
 
