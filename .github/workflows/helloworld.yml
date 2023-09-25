@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: ./hello-world-docker-action
-          with:
+        with:
             who-to-greet: 'Felipe'
