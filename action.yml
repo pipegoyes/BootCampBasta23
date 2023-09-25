@@ -1,5 +1,0 @@
-name: Container action in bootcamp
-
-uses: actions/hello-world-docker-action@main
-with:
-  who-to-greet: 'Hello world'
